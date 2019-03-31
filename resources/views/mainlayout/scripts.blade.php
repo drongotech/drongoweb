@@ -1,0 +1,1 @@
+<script type="text/javascript" src="{{env('APP_URL').'js/testimony.js'}}"></script>
